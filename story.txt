@@ -1,0 +1,5 @@
+Once upon a time, there was a daring adventurer named <hero>.
+ <hero> lived in a <place> and enjoyed <activity> and <activity>. 
+ One day, <hero> found a mysterious <object> that led <him/her/them> on a journey to <destination>. 
+ Along the way, <hero> met a <creature> who offered <plural_noun> to help <him/her/them>.
+ After many challenges, <hero> reached <destination> and discovered <surprise>.
